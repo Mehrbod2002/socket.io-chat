@@ -1,13 +1,13 @@
 # socket.io-chat
 Socket.io chat Voice Image File - Nginx , Node.JS , Express , Redis With Front.End sample
 ## Introduction
-Code is performed by Socket.io to event listener and emiting messages in server-side and front-end languages .
-It used JWT to confirm connections status and validating token and intention was as middleware worker NOT AS AN ENGINE .
-Wish use as Engine ? Use Adaptor in Socket.io and set your validators in VALIDATE_TOKEN.js as well set your own configurations in nginx and signature.js
-which work as middleware to confirm users connections.
-Also it used for sending image ... and buffer messages which controls by REDIS.
-Main Stream is controlled by Pure MySql on DATABASE.JS.
-Middleware functions are defined on SIGNATURE.js
+Code is performed by Socket.io to event listener and emiting messages in server-side and front-end languages . <br/>
+It used JWT to confirm connections status and validating token and intention was as middleware worker NOT AS AN ENGINE . <br/>
+Wish use as Engine ? Use Adaptor in Socket.io and set your validators in VALIDATE_TOKEN.js as well set your own configurations in nginx and signature.js . <br/>
+which work as middleware to confirm users connections . <br/>
+Also it used for sending image ... and buffer messages which controls by REDIS . <br/>
+Main Stream is controlled by Pure MySql on DATABASE.JS . <br/>
+Middleware functions are defined on SIGNATURE.js . <br/>
 
 ### Perform test on Index2.html 
 
