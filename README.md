@@ -1,4 +1,4 @@
-# socket.io-chat
+# socket.io-chat - Personal Project
 Socket.io chat Voice Image File - Nginx , Node.JS , Express , Redis With Front.End sample
 ## Introduction
 Code is performed by Socket.io to event listener and emiting messages in server-side and front-end languages . <br/>
